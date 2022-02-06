@@ -1,0 +1,22 @@
+
+section{
+    display: flex;
+}
+.form-main
+{
+    background-color:#EEE;
+    width:800px;
+    align-items:center;
+    justify-content: center;
+   
+}
+.txtb{
+
+    justify-content: center;
+
+}
+.btn-form
+{
+
+
+}
